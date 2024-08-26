@@ -55,7 +55,7 @@ A API será expandida para incluir os seguintes endpoints e funcionalidades:
 4. Inicie o servidor Flask:
 
     ```bash
-        python app.py
+    python app.py
 
 ## Acesse a API em nosso frontend ou usando uma ferramenta como Postman:
 
