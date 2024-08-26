@@ -51,7 +51,6 @@ A API será expandida para incluir os seguintes endpoints e funcionalidades:
 
    ```bash
     pip install -r requirements.txt
-    Uso
     
 4. Inicie o servidor Flask:
 
