@@ -52,20 +52,21 @@ A API será expandida para incluir os seguintes endpoints e funcionalidades:
    ```bash
     pip install -r requirements.txt
     Uso
-    Inicie o servidor Flask:
+    
+4. Inicie o servidor Flask:
 
     ```bash
         python app.py
 
-4. Acesse a API em nosso frontend ou usando uma ferramenta como Postman:
+## Acesse a API em nosso frontend ou usando uma ferramenta como Postman:
 
-5. Recomendação de MCCs:
+1. Recomendação de MCCs:
 
     Endpoint: /api/best_mcc_per_state
     Método: POST
     Parâmetros: state (ex: RN)
 
-4. Itens de Venda:
+2. Itens de Venda:
 
     Endpoint: /api/best_items_by_document_id
     Método: POST
@@ -74,7 +75,7 @@ A API será expandida para incluir os seguintes endpoints e funcionalidades:
 ## Contribuições
 Se você deseja contribuir para este projeto, por favor, siga as diretrizes abaixo:
 
-    - Faça um fork do repositório.
-    - Crie uma branch para sua feature ou correção.
-    - Faça commit das suas alterações.
-    - Envie um pull request para o branch principal.
+- Faça um fork do repositório.
+- Crie uma branch para sua feature ou correção.
+- Faça commit das suas alterações.
+- Envie um pull request para o branch principal.
